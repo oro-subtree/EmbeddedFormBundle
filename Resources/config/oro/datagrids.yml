@@ -1,4 +1,4 @@
-datagrid:
+datagrids:
     embedded-forms-grid:
         acl_resource: oro_embedded_form_view
         source:
